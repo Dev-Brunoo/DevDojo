@@ -1,4 +1,4 @@
-# ☕ Maratona Java - DevDojo
+# Maratona Java - DevDojo
 
 Repositório dedicado aos meus estudos de Java, acompanhando as aulas do curso **Maratona Java Virado no Jiraya** do canal DevDojo.
 
@@ -18,6 +18,8 @@ No momento, o projeto conta com os seguintes aprendizados:
 * **Aula 02:** Estudo sobre **Tipos Primitivos** (int, double, float, char, byte, short, long, boolean).
 * **Aula 03:** Exercício prático de variáveis e concatenação de Strings.
     * *Desafio:* Imprimir uma mensagem de confirmação de recebimento de salário formatada.
+* **Aula 04: ** Operadores.
+* **Aula 05: ** Estruturas Condicionais.
 
 ##  Exemplo de Código (Exercício Aula 03)
 ```java
