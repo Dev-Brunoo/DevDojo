@@ -5,7 +5,7 @@ Repositório dedicado aos meus estudos de Java, acompanhando as aulas do curso *
 ##  Objetivo
 O objetivo deste projeto é documentar minha evolução na linguagem Java, desde os conceitos mais básicos (tipos primitivos, estruturas condicionais) até tópicos avançados (Orientação a Objetos, Coleções, etc).
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem:** Java 17+
 * **IDE:** IntelliJ IDEA
 * **Controle de Versão:** Git & GitHub
