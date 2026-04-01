@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula05EstruturasCondicionais {
+public class Aula05EstruturasCondicionais01 {
     public static void main (String[] args){
 
         int idade = 15;
@@ -19,6 +19,14 @@ public class Aula05EstruturasCondicionais {
         boolean c = false;
         if( c == true){
             System.out.println("entrei aquui");
+        }
+
+        double conta = 1000000;
+        if(conta >= 90000){
+            System.out.println("nao sou milhonario");
+        } else if (conta <= 2000000) {
+            System.out.println("sou milhonario");
+
         }
 
     }
